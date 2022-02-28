@@ -1,0 +1,255 @@
+/* GENERAL */
+body
+{
+    background-color:white;
+}
+
+ul li
+{
+    float: left;
+    margin-top: 20px;
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(142, 211, 142);
+}
+h2 img
+{
+   margin-left: 700px;
+   margin-bottom: 50px;
+}
+h3
+{
+    font-size: 40px;
+    text-align: center;
+    color: turquoise;
+}
+/* HEADER */
+
+.navbar
+{
+    width: 70%;
+    height: 60px;
+    position: sticky;
+    display: flex;
+    justify-content: space-evenly;
+    z-index: 999;
+    top: 0;
+    padding: 20px 16%;
+    background-color:white;
+}
+.navbar img
+{
+    width: 400px;
+    margin-top: -126px;
+}
+
+.navbar li
+{
+    margin: 10px;
+}
+/* SECTION */
+.h2 img
+{
+    margin-left: 700px;
+    margin-bottom: 50px;
+}
+.h3
+{
+    font-size: 40px;
+    text-align: center;
+    color: turquoise;
+}
+/* SECTION2 */
+.section2 p
+{
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+    margin-left: 180px;
+    font-style: italic;
+}
+/* SECTION-3 */
+.section-3 {
+    display: flex;
+    justify-content: center;
+    margin: 1Opx;
+}
+.section-3 div {
+    width: 350px;
+    height: 350px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 20px;
+}
+.section-3 div img {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.section-3 div p {
+    color: white;
+    margin-bottom: 60px;
+}
+.section-3 div h4 {
+    font-size: 40px;
+    color: white;
+}
+.button-1 {
+    margin-left: 30px;
+}
+#A {
+    background-color: rgb(87, 182, 172);
+}
+#A h4 {
+    margin-left: 30px;
+}
+#A p {
+    margin-left: 30px;
+}
+#B {
+    background-color: blueviolet;
+}
+#B h4 {
+    margin-left: 30px;
+}
+#B p {
+    margin-left: 30px;
+}
+#C {
+    background-color: black;
+}
+#C h4 {
+    margin-left: 30px;
+}
+#C p {
+    margin-left: 30px;
+}
+/* SECTION-111 */
+.Section-111 {
+    display: flex;
+}
+.Section-111 div {
+    margin-left: 260px;
+}
+.Section-111 div h5 {
+    font-size: 40px;
+    color: turquoise;
+}
+#site1 {
+    margin-left: 10px;
+    margin-top: 25px;
+}
+#site1 ul li {
+padding-left: 10px;
+}
+#site1 ul A {
+    margin: 10px;
+    display: flex;
+}
+#site2 ul B {
+    display: flex;
+}
+/* SECTION-4 */ 
+.section-4 {
+    width: 100%;
+    display: flex;
+    background-color:  rgb(144, 247, 236);
+    border-radius: 10PX 10px 10px 10px;
+}
+.section-4 div h3 {
+    margin-left: 130px;
+}
+#PP p {
+    margin-left: 40px;
+    color: #777;
+    font-style: italic;
+}
+#block_1 {
+    background-color:  rgb(144, 247, 236)
+}
+#block_1 div {
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 200px;
+}
+#block_1 div h6 {
+    color: turquoise;
+    font-size: 20px;
+}
+#block_1 p {
+    text-align: center;
+    color: #777;
+    font-style: italic;
+}
+#block_2 div {
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;   
+}
+#block_2 p {
+    text-align: center;
+    color: #777;
+    font-style: italic;
+}
+/* SECTION-6 */
+.section-6 p {
+    text-align: center;
+    font-style: italic;
+    color: #777;
+}
+/* SECTION-7 */
+.section-7 {
+    display: flex;
+    justify-content:center;
+    padding-left: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 30px;
+}
+.Block12 {
+    display: inline-block;
+    border-radius: 10px 10px 10px 10px;
+}
+/* SECTION-8 */
+.Section-8 div h5 { 
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+.button-3{
+    background: rgb(91, 91, 235);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 3px;
+    margin-left: 620px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.button-3:hover{
+    background-color: blue;
+}
+/* FOOTER */
+Footer {
+    padding: 120px;
+    padding-bottom: 0px;
+}
+Footer div {
+    border-top: 1px solid #777;
+}
+Footer div p {
+    text-align: center;
+    padding-bottom: 1Opx 0px;
+    font-style: italic;
+    color: #777;
+}
+Footer div a {
+    color: blue;
+}
+
+
+
+
